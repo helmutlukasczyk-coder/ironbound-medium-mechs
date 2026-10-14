@@ -38,12 +38,13 @@
 <text x="192" y="151" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#243540" text-anchor="start">4 / 6 / 9 inches</text>
 <text x="30" y="168" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#243540" text-anchor="start">Jump Move</text>
 <text x="192" y="168" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#243540" text-anchor="start">0 inches</text>
-<text x="30" y="185" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#243540" text-anchor="start">Base TMM / Initiative</text>
-<text x="192" y="185" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#243540" text-anchor="start">2 / 2</text>
-<text x="30" y="202" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#243540" text-anchor="start">Sinks</text>
-<text x="192" y="202" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#243540" text-anchor="start">3</text>
-<text x="30" y="219" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#243540" text-anchor="start">Catalogue role</text>
-<text x="192" y="219" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#243540" text-anchor="start">Skirmisher</text>
+<text x="30" y="185" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#243540" text-anchor="start">Base TMM</text>
+<text x="30" y="195" font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#61717c" text-anchor="start">(Ground/Jump/Initiative)</text>
+<text x="192" y="185" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#243540" text-anchor="start">2 / – / 2</text>
+<text x="30" y="213" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#243540" text-anchor="start">Sinks</text>
+<text x="192" y="213" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#243540" text-anchor="start">3</text>
+<text x="30" y="230" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#243540" text-anchor="start">Catalogue role</text>
+<text x="192" y="230" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#243540" text-anchor="start">Skirmisher</text>
 <rect x="360" y="120" width="23" height="16" rx="0" fill="#263640" stroke="none" />
 <text x="371" y="132" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#fff" text-anchor="middle">5+</text>
 <text x="392" y="132" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">Automatic shutdown</text>
