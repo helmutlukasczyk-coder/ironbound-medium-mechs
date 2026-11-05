@@ -80,21 +80,21 @@
     <rect x="22" y="289" width="565" height="20" rx="0" fill="#e8e9e7" stroke="none" />
     <text x="27" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#243540" text-anchor="start">1  ER Large Laser</text>
     <text x="257" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">3</text>
-    <text x="363" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">3</text>
+    <text x="363" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">2</text>
     <text x="405" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#243540" text-anchor="start">LA</text>
     <text x="449" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+0</text>
     <text x="481" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+0</text>
-    <text x="513" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+2</text>
-    <text x="545" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+4</text>
+    <text x="513" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+0</text>
+    <text x="545" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+2</text>
     <text x="578" y="303" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+4</text>
     <text x="27" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#243540" text-anchor="start">2  ER Large Laser</text>
     <text x="257" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">3</text>
-    <text x="363" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">3</text>
+    <text x="363" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">2</text>
     <text x="405" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#243540" text-anchor="start">RA</text>
     <text x="449" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+0</text>
     <text x="481" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+0</text>
-    <text x="513" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+2</text>
-    <text x="545" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+4</text>
+    <text x="513" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+0</text>
+    <text x="545" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+2</text>
     <text x="578" y="323" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">+4</text>
     <rect x="22" y="329" width="565" height="20" rx="0" fill="#e8e9e7" stroke="none" />
     <text x="27" y="343" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#243540" text-anchor="start">3  Medium Laser</text>
@@ -212,9 +212,9 @@
       <circle cx="166" cy="195" r="5.5" fill="#fff" stroke="#b13737" stroke-width="1.7" />
       <circle cx="180" cy="195" r="5.5" fill="#fff" stroke="#b13737" stroke-width="1.7" />
       <circle cx="194" cy="195" r="5.5" fill="#fff" stroke="#b13737" stroke-width="1.7" />
-      <circle cx="166" cy="209" r="5.5" fill="#fff" stroke="#b13737" stroke-width="1.7" />
-      <circle cx="180" cy="209" r="5.5" fill="#fff" stroke="#b13737" stroke-width="1.7" />
-      <circle cx="194" cy="209" r="5.5" fill="#fff" stroke="#b13737" stroke-width="1.7" />
+      <circle cx="173" cy="209" r="5.5" fill="#fff" stroke="#b13737" stroke-width="1.7" />
+      <circle cx="187" cy="209" r="5.5" fill="#fff" stroke="#b13737" stroke-width="1.7" />
+      
       <circle cx="101" cy="158" r="5.5" fill="#fff" stroke="#243540" stroke-width="1.7" />
       <circle cx="115" cy="158" r="5.5" fill="#fff" stroke="#243540" stroke-width="1.7" />
       <circle cx="101" cy="172" r="5.5" fill="#fff" stroke="#243540" stroke-width="1.7" />
@@ -263,7 +263,7 @@
     <text x="22" y="650" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#243540" text-anchor="start">EV 1400</text>
     <text x="150" y="650" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">CV 4,800,000 C-bills</text>
     <text x="380" y="650" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start">Upkeep 500 C-bills/day</text>
-    <text x="630" y="650" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#243540" text-anchor="start">Mech only · EV reference G4 / P5 · Restricted access (R)</text>
+    <text x="630" y="650" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#243540" text-anchor="start">Mech only · EV reference G4 / P5 · Lostech access (L)</text>
     <text x="29" y="498" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#243540" text-anchor="start">Weapon losses / TIC:</text>
     <rect x="164" y="488" width="11" height="11" fill="#fff" stroke="#536572" />
     <text x="181" y="498" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#243540" text-anchor="start" font-weight="bold">1</text>
